@@ -66,6 +66,7 @@ This repo was built for my ongoing project of publishing an introductory Chinese
     - 线性回归
     - 方差分析
     - 广义线性模型
+    分工
 
 吕小康
 
